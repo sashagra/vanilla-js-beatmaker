@@ -25,6 +25,11 @@ header p {
   font-size: 25px;
 }
 
+.kbSwitcher {
+  padding-top: 10px;
+  text-align: center;
+}
+
 .pads {
   background: lightblue;
   width: 100%;
@@ -34,6 +39,9 @@ header p {
   height: 100px;
   width: 100px;
   flex: 1;
+  text-align: center;
+  padding-top: 30px;
+
 }
 .pad1 {
   background: #60d394;
